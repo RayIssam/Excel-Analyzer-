@@ -1,4 +1,4 @@
-# Excel Analyzer is a script for Data Processing and Analysis
+# Excel Analyzer
 
 - Overview
 This repository contains a Python script that processes and analyzes data from an Excel file. The script is designed to clean and transform data, specifically focusing on splitting and analyzing options related to social innovation. The final output is a pivot table that provides insights into the frequency of various options by nationality.
